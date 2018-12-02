@@ -7,7 +7,8 @@ html, body {
   height: 100%;
 }
 .logo{
-  position: absolute;
+ 
+  justify-content: center;
 }
 section {
   position: relative;
@@ -36,9 +37,8 @@ section h1 {
   text-align: center;
   white-space: nowrap;
 }
-
-#section01 { background: url(https://cdn.shopify.com/s/files/1/0156/0137/products/refill_0012_basil.jpg?v=1520501227) center center / cover no-repeat;}
-#section02 { background: url(https://picsum.photos/1200/800?image=1016) center center / cover no-repeat;}
+#section01 { background:  center center / cover no-repeat;}
+#section02 { background: url(https://cdn.shopify.com/s/files/1/0156/0137/products/refill_0012_basil.jpg?v=1520501227) center center / cover no-repeat;}
 #section03 { background: url(https://picsum.photos/1200/800?image=869) center center / cover no-repeat;}
 #section04 { background: url(https://picsum.photos/1200/800?image=506) center center / cover no-repeat;}
 #section05 { background: url(https://picsum.photos/1200/800?image=1037) center center / cover no-repeat;}
